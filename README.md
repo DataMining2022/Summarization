@@ -1,7 +1,5 @@
 # Summarization - BART vs TextRank
 
-The online appendix for the submission "Abstractive Code Summarization of Unofficial Documentation via Deep Learning".
-
 If you are interested in replicating this study, you can use the CSV files in data folder to generated summaries for mentioned APIs in the paper. The CSV files are courpus of sentences for generating summaries, extracted from Stack Overflow.
 
 The result folder contains the final results of our survey with developers about the generated summaries.
